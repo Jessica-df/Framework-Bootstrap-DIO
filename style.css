@@ -1,0 +1,43 @@
+.body {
+    font-family: cursive;
+}
+
+.navbar {
+    background-color: darkslateblue;
+    font-family: cursive;
+    color: mediumblue;
+}
+
+.nav-item {
+    background-color: rgba(250, 250, 250, 0.733);
+    display: flex;
+}
+
+.quem-somos {
+    background-color: lightskyblue;
+    font-family: cursive;
+}
+
+.margin {
+    padding-top: 30px;
+}
+
+.a {
+    color: white;
+    font-family: cursive;
+}
+
+.p {
+    background-color: plum;
+    color: white;
+    font-family: cursive;
+}
+
+.k {
+    color: rgb(12, 11, 11);
+    font-family: cursive;
+}
+
+.v {
+    background-color: seagreen;
+}
